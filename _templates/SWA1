@@ -9,7 +9,8 @@ standard:
 flash: tuya-convert
 link: https://www.amazon.com/dp/B07KT61FFG
 image: https://images-na.ssl-images-amazon.com/images/I/51ZJHl%2B6TNL._SL1500_.jpg
-template: '{"NAME":"SWA1","GPIO":[0,0,0,0,52,21,0,0,0,17,0,0,0],"FLAG":0,"BASE":18}' 
+template: '{"NAME":"SWA1","GPIO":[0,0,0,0,52,21,0,0,0,17,0,0,0],"FLAG":0,"BASE":18}'
+template: '{"NAME":"SWA1","GPIO":[255,255,255,255,255,21,255,255,255,17,255,255,255],"FLAG":15,"BASE":18}'
 link2: https://www.amazon.de/dp/B079JXN1VV
 link3: https://www.amazon.it/Intelligente-Houzetek-supporto-programmabile-Telecomando/dp/B07BF66JL1
 link4: https://www.banggood.com/LINGAN-SWA1-Smart-WiFi-Socket-Plug-with-App-Remote-Control-Timer-Wifi-Socket-Smart-Remote-Wireless-Controls-with-Amazon-Alexa-p-1568061.html
